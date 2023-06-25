@@ -1,0 +1,43 @@
+Current Data & Time: Sun Jun 25 13:41:26 2023
+
+ATMs in Bank: 3
+Bank Capital: 273330
+ ATM #1: 
+	 ATM capital: 71420
+	 ATM min/max dispense: 1000/5000
+	 ATM Banknotes: 
+		1: 130
+		2: 320
+		5: 90
+		10: 50
+		20: 60
+		50: 90
+		100: 60
+		200: 90
+		500: 80
+ ATM #2: 
+	 ATM capital: 33540
+	 ATM min/max dispense: 1000/5000
+	 ATM Banknotes: 
+		1: 240
+		2: 600
+		5: 100
+		10: 40
+		20: 60
+		50: 80
+		100: 40
+		200: 60
+		500: 20
+ ATM #3: 
+	 ATM capital: 168370
+	 ATM min/max dispense: 1000/5000
+	 ATM Banknotes: 
+		1: 1020
+		2: 900
+		5: 300
+		10: 5440
+		20: 350
+		50: 541
+		100: 67
+		200: 92
+		500: 101
